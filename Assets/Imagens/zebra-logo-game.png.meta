@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      zebra-logo-game_0: 5441439117491703305
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
