@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rhino_SpriteSheet_0: 7795563381888668610
+      Rhino_SpriteSheet_1: -1526664846440188007
+      Rhino_SpriteSheet_2: 4361477276939221314
+      Rhino_SpriteSheet_3: -6058386804861292551
+      Rhino_SpriteSheet_4: 6169319185846380294
+      Rhino_SpriteSheet_5: -9019673846121617414
+      Rhino_SpriteSheet_6: -1205849593445166856
+      Rhino_SpriteSheet_7: 163318717928424254
+      Rhino_SpriteSheet_8: 2123481248757021269
+      Rhino_SpriteSheet_9: 7054594002461467306
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

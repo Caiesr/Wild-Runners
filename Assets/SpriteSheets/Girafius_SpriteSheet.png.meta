@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Girafius_SpriteSheet_0: 679070152519854577
+      Girafius_SpriteSheet_1: -2842111252419497946
+      Girafius_SpriteSheet_2: 7234001671236444025
+      Girafius_SpriteSheet_3: 252110339105916221
+      Girafius_SpriteSheet_4: 1877164914748580837
+      Girafius_SpriteSheet_5: 4904037474088035250
+      Girafius_SpriteSheet_6: -3299527921157842662
+      Girafius_SpriteSheet_7: -8831690365266788252
+      Girafius_SpriteSheet_8: 5758052237046815548
+      Girafius_SpriteSheet_9: 3680891712341534522
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
