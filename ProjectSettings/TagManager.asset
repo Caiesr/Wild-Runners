@@ -8,6 +8,7 @@ TagManager:
   - ground_reset 2
   - ground
   - ruim
+  - getPoint
   layers:
   - Default
   - TransparentFX
